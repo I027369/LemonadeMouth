@@ -1,0 +1,6 @@
+amazonProperties:
+  endpointUrl: https://s3.us-east-2.amazonaws.com
+  accessKey: AKIAJJOMBZNWDTWEGCKA
+  secretKey: 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
+  bucketName: moonshot-images
+  cloudFrontURL: http://d3m7rh3s707zlz.cloudfront.net
